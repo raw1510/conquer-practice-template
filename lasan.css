@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+}
+.nav-bar{
+    width: 100%;
+}
+.logo{
+    float: left;
+}
+.inner-nav{
+    float: right;
+}
+.nav-bar li{
+    display: inline;
+}
